@@ -23,8 +23,6 @@ npm install tailwindcss @tailwindcss/vite
 
 ## 3. Update the vite.config.js file to import and use the tailwindcss plugin
 
-    ![alt text](image.png)
-
 ```js
 import { defineConfig } from "vite";
 import tailwindcss from "@tailwindcss/vite";
